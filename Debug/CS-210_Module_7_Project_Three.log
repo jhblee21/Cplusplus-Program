@@ -1,0 +1,14 @@
+﻿  InputOutput.cpp
+\\apporto.com\dfs\SNHU\USERS\jameslee4_snhu\Documents\Visual Studio 2019\CS-210_Module_7_Project_Three\CS-210_Module_7_Project_Three\InputOutput.cpp(59,32): warning C4018: '<': signed/unsigned mismatch
+\\apporto.com\dfs\SNHU\USERS\jameslee4_snhu\Documents\Visual Studio 2019\CS-210_Module_7_Project_Three\CS-210_Module_7_Project_Three\InputOutput.cpp(72,32): warning C4018: '<': signed/unsigned mismatch
+\\apporto.com\dfs\SNHU\USERS\jameslee4_snhu\Documents\Visual Studio 2019\CS-210_Module_7_Project_Three\CS-210_Module_7_Project_Three\InputOutput.cpp(79,32): warning C4018: '<': signed/unsigned mismatch
+\\apporto.com\dfs\SNHU\USERS\jameslee4_snhu\Documents\Visual Studio 2019\CS-210_Module_7_Project_Three\CS-210_Module_7_Project_Three\InputOutput.cpp(82,36): warning C4018: '<': signed/unsigned mismatch
+  ItemVector.cpp
+  mainMenu.cpp
+\\apporto.com\dfs\SNHU\USERS\jameslee4_snhu\Documents\Visual Studio 2019\CS-210_Module_7_Project_Three\CS-210_Module_7_Project_Three\mainMenu.cpp(51,26): warning C4101: 'excpt': unreferenced local variable
+  nCharString.cpp
+\\apporto.com\dfs\SNHU\USERS\jameslee4_snhu\Documents\Visual Studio 2019\CS-210_Module_7_Project_Three\CS-210_Module_7_Project_Three\nCharString.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+  printMenu.cpp
+  Generating Code...
+\\apporto.com\dfs\SNHU\USERS\jameslee4_snhu\Documents\Visual Studio 2019\CS-210_Module_7_Project_Three\CS-210_Module_7_Project_Three\InputOutput.cpp(13): warning C4715: 'InputOutput::openInputFile': not all control paths return a value
+  CS-210_Module_7_Project_Three.vcxproj -> \\apporto.com\dfs\SNHU\Users\jameslee4_snhu\Documents\Visual Studio 2019\CS-210_Module_7_Project_Three\Debug\CS-210_Module_7_Project_Three.exe
